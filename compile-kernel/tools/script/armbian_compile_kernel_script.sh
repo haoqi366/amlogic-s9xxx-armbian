@@ -63,7 +63,7 @@ initramfs_conf="/etc/initramfs-tools/update-initramfs.conf"
 ophub_release_file="/etc/ophub-release"
 
 # Set the default for downloading kernel sources from github.com
-repo_owner="unifreq"
+repo_owner="haoqi366"
 repo_branch="main"
 build_kernel=("6.1.y" "6.12.y")
 all_kernel=("5.4.y" "5.10.y" "5.15.y" "6.1.y" "6.6.y" "6.12.y")
